@@ -19,7 +19,7 @@ eduroam（education roaming）是全球教育和学术机构共建的免费的�
 注意事项：
 
 1. 师生在我校也可以使用eduroam上网，但是无法访问内网；
-2. 学生的用户名为学号@cuhk.edu.cn，不是@link.cuhk.edu.cn。例如，学生的用户名如下所示：123456789@cuhk.edu.cn。
+2. 学生的用户名为学号@cuhk.edu.cn，不是@link.cuhk.edu.cn。例如，学生的用户名如下所示：`123456789@cuhk.edu.cn`。
 
 ## What is eduroam?
 
@@ -28,7 +28,7 @@ eduroam (education roaming) is the free, secure, world-wide roaming access servi
 The method of connecting eduroam is as follows:
 
 Open Wi-Fi setting, select eduroam.
-Enter your student ID number followed by @cuhk.edu.cn in the Username field (5112010001@cuhk.edu.cn, for example) and your CUHK(SZ) account password.
+Enter your student ID number followed by @cuhk.edu.cn in the Username field (`5112010001@cuhk.edu.cn`, for example) and your CUHK(SZ) account password.
 Notice:
 
 Teachers and students can only use eduroam in other organizations except CUHK-Shenzhen.
